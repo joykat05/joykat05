@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joykat05
 - 🌱 I am currently learning DSA and web developement,
-- i know C,C++,Java and Python.
+- i know C,C++,Java,Javascript and Python.
 - i love to draw as well as code and blending these two mediums is always a pleasure 
 
 <!---
